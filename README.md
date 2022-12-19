@@ -3,14 +3,14 @@
 ## 🛠️环境要求
 
 - Python 3.6 +
-- Chrome和[chromedriver.exe](http://chromedriver.storage.googleapis.com/index.html)（注意与chrome版本相匹配）
+- Chrome 和 [chromedriver.exe](http://chromedriver.storage.googleapis.com/index.html)（注意与chrome版本相匹配）
 - `pip install -r requirements.txt`
 
 ## ❗️ 重要说明
 
 参考代码1：[ticket1.py](https://github.com/Entromorgan/Autoticket)
 
-通过selenium模拟点击，存在webdriver特征，无法通过滑块验证
+通过`selenium`模拟点击，存在`webdriver`特征，无法通过滑块验证
 
 > 参数说明：
 >
@@ -25,8 +25,8 @@
 
 参考代码2：[ticket2.py](https://github.com/MakiNaruto/Automatic_ticket_purchase)
 
-通过selenium登录获得cookie后，使用requests直接发送请求，最后一步无法成功提交订单
+通过`selenium`登录获得cookie后，使用`requests`直接发送请求，最后一步无法成功提交订单
 
 ## 📧联系方式
 
-If you have any concerns here, please post as Github issues, or send an e-mail to Joker Xin by [jxpro@qq.com](mailto:jxpro@qq.com).
+如果有任何问题，欢迎到 [github issue](https://github.com/Jxpro/damai-tickets/issues) 进行讨论，或发送电子邮件到 [jxpro@qq.com](mailto:jxpro@qq.com) 来联系我
