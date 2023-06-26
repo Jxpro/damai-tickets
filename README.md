@@ -1,6 +1,6 @@
 # 大麦网抢票脚本案例
 
-## 🛠️环境要求
+## 🛠️ 环境要求
 
 - Python 3.6 +
 - Chrome 和 [chromedriver.exe](http://chromedriver.storage.googleapis.com/index.html)（注意与chrome版本相匹配）
@@ -31,6 +31,11 @@
 
 **存在的问题**：最后一步无法成功提交订单
 
-## 📧联系方式
+## 📧 联系方式
 
 如果有任何问题，欢迎到 [github issue](https://github.com/Jxpro/damai-tickets/issues) 进行讨论，或发送电子邮件到 [jxpro@qq.com](mailto:jxpro@qq.com) 来联系我
+
+## ⭐ Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/Jxpro/damai-tickets.svg)](https://starchart.cc/Jxpro/damai-tickets)
+
