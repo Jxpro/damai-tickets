@@ -37,5 +37,8 @@
 
 ## ⭐ Stargazers over time
 
-[![Stargazers over time](https://starchart.cc/Jxpro/damai-tickets.svg)](https://starchart.cc/Jxpro/damai-tickets)
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Jxpro/damai-tickets&type=Date&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Jxpro/damai-tickets&type=Date" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Jxpro/damai-tickets&type=Date" />
+</picture>
